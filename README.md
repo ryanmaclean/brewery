@@ -3,7 +3,7 @@
 
 #### New Developer Provisioning scripts
 
-To build up a new machine from scratch, run the "install" command.
+To build up a new machine from scratch, run the`install` command.
 
 #### The Choosy Type
 
